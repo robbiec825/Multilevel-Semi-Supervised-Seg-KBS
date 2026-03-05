@@ -1,5 +1,9 @@
 # SynMatch: A Synergistic System for Multi-Level Semi-Supervised Medical Image Segmentation
 
-The official implementation of **SynMatch** is currently being organized and will be released soon.
+This repository contains the implementation of **SynMatch**.
 
-Stay tuned!
+## Acknowledgements
+
+Our codebase is built upon and inspired by [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) and [UniMatch](https://github.com/LiheYoung/UniMatch). We sincerely thank the authors for their excellent open-source contributions. 
+
+If you find our work and this codebase useful, please also consider citing their original papers.
